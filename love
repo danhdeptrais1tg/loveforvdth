@@ -1,0 +1,65 @@
+```html
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Web Tình Yêu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fbeffb;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f9c4d0;
+            padding: 20px;
+            border-bottom: 2px solid #f3a4b7;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #d63a6c;
+        }
+        section {
+            padding: 20px;
+        }
+        .content {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 600px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        footer {
+            background-color: #f9c4d0;
+            padding: 10px;
+            border-top: 2px solid #f3a4b7;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Gửi Yêu Thương Đến Vũ Đào Thúy Hồng</h1>
+    </header>
+    <section>
+        <div class="content">
+            <h2>helluu bé iuu</h2>
+            <p>Anh muốn gửi đến em tất cả những yêu thương và tình cảm sâu sắc nhất từ tận trái tim anh. Em là người đặc biệt nhất trong cuộc đời anh, và mỗi ngày bên em đều là một món quà quý giá.</p>
+            <p>anhh xin lũii chuyện hồi tối do lúc đóo anhh đợi em mà lâu quáa dớii lạii do đangg học cáii nhớ emm mún nhắn emm đii đâu mất làm anhh bùn lắmm:<.</p>
+            <p>anhh yêu em bé của anhh nhìuu lắmm!</p>
+        </div>
+    </section>
+    <footer>
+        <p>Được tạo bởi anhh biu:3, dành tặng ebee Vũ Đào Thúy Hồng</p>
+    </footer>
+</body>
+</html>
+```
